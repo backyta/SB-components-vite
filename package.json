@@ -67,9 +67,11 @@
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog",
     "@semantic-release/github",
-    "@semantic-release/npm"
-  ],
+    "@semantic-release/npm",
+    "@semantic-release/git"
+],
   "readme": "ERROR: No README data found!",
   "_id": "my-storybook@0.0.0"
 }
