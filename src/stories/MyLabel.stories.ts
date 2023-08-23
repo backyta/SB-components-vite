@@ -50,6 +50,17 @@ export const CustomColor: Story = {
     }
 }
 
+export const CustomBackgroundColor: Story = {
+    args:{
+        size:'h1',
+        label:'Custom color label',
+        fontColor:'white',
+        backgroundColor:'black'
+    }
+}
+
+
+
 
 
 
