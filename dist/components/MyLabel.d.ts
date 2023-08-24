@@ -26,3 +26,4 @@ export interface Props {
     backgroundColor?: string;
 }
 export declare const MyLabel: ({ label, size, AllCaps, color, fontColor, backgroundColor }: Props) => import("react/jsx-runtime").JSX.Element;
+export default MyLabel;
